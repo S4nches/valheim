@@ -1,0 +1,48 @@
+2023-06-12 19:06:43.9326 [SettingsService] Info loading settings 
+2023-06-12 19:06:44.1147 [SettingsService] Info saving settings 
+2023-06-12 19:06:45.1839 [MainViewModel] Info MainViewModel Loaded 
+2023-06-12 19:06:45.2939 [FPWorkshopService] Info init 
+2023-06-12 19:06:46.1921 [ApiClient] Info getting https://dayzsalauncher.com/api/v1/launcher/banner/LauncherLeft 
+2023-06-12 19:06:46.3832 [ApiClient] Info getting https://dayzsalauncher.com/api/v1/launcher/version 
+2023-06-12 19:06:46.6813 [ApiClient] Info response https://dayzsalauncher.com/api/v1/launcher/version - 89 
+2023-06-12 19:06:46.6813 [UpdateChecker] Info Checking for update. Local version: 0.0.5.3 | Remote version: 0.0.5.3 
+2023-06-12 19:06:46.8293 [ApiClient] Info response https://dayzsalauncher.com/api/v1/launcher/banner/LauncherLeft - 156 
+2023-06-12 19:06:47.0393 [ServerListDownloader] Info downloading dayz server list 
+2023-06-12 19:06:47.0393 [ApiClient] Info getting https://dayzsalauncher.com/api/v2/launcher/servers/dayz 
+2023-06-12 19:06:47.0393 [ApiClient] Info getting https://dayzsalauncher.com/api/v2/launcher/listings/dayz 
+2023-06-12 19:06:47.1224 [ApiClient] Info getting https://dayzsalauncher.com/api/v1/launcher/banner/LauncherRight 
+2023-06-12 19:06:47.4104 [ApiClient] Info response https://dayzsalauncher.com/api/v1/launcher/banner/LauncherRight - 39 
+2023-06-12 19:06:47.5244 [ApiClient] Info response https://dayzsalauncher.com/api/v2/launcher/listings/dayz - 19040 
+2023-06-12 19:06:48.7047 [ApiClient] Info response https://dayzsalauncher.com/api/v2/launcher/servers/dayz - 14286709 
+2023-06-12 19:06:49.4299 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:49.7169 [SettingsService] Info saving settings 
+2023-06-12 19:06:49.7169 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:49.8300 [SettingsService] Info saving settings 
+2023-06-12 19:06:49.8300 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:49.9400 [SettingsService] Info saving settings 
+2023-06-12 19:06:49.9400 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.0570 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.0570 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.1620 [ApiClient] Info getting https://dayzsalauncher.com/api/v1/launcher/open 
+2023-06-12 19:06:50.1780 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.1780 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.3731 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.3731 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.4511 [ApiClient] Info response https://dayzsalauncher.com/api/v1/launcher/open - 26 
+2023-06-12 19:06:50.4511 [ApiClient] Info getting https://dayzsalauncher.com/api/v1/launcher/version 
+2023-06-12 19:06:50.4731 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.4751 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.6051 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.6051 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.7122 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.7122 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.8302 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.8302 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:50.9392 [SettingsService] Info saving settings 
+2023-06-12 19:06:50.9392 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:51.0742 [ApiClient] Info response https://dayzsalauncher.com/api/v1/launcher/version - 89 
+2023-06-12 19:06:51.0742 [UpdateChecker] Info Checking for update. Local version: 0.0.5.3 | Remote version: 0.0.5.3 
+2023-06-12 19:06:51.0972 [SettingsService] Info saving settings 
+2023-06-12 19:06:51.0972 [ServerQueryManager] Info Starting query runner 
+2023-06-12 19:06:51.2203 [SettingsService] Info saving settings 
+2023-06-12 19:06:51.2203 [ServerQueryManager] Info Starting query runner 
